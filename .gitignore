@@ -1,0 +1,17 @@
+# SAM CLI installer
+aws-sam-cli-linux-x86_64.zip
+sam-installation/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# SAM
+samconfig.toml
+.aws-sam/
+
+# IDE
+.idea/
+.vscode/
+*.iml
